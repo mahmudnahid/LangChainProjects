@@ -11,4 +11,4 @@ This is a collection of Generative AI projects using LangChain, OpenAI, Google G
 
 - [Hugging Face Hub](https://python.langchain.com/docs/integrations/llms/huggingface_hub)
 - [Hugging Face Chat Models](https://python.langchain.com/docs/integrations/chat/huggingface)
-- [LangChain GEN AI Tutorial ](https://www.youtube.com/watch?v=x0AnCE9SE4A&list=PLfSjqFCeuoLxfM-eToCyx2bYNpjmkbSZr) by 
+- [LangChain GEN AI Tutorial ](https://www.youtube.com/watch?v=x0AnCE9SE4A&list=PLfSjqFCeuoLxfM-eToCyx2bYNpjmkbSZr) by Krish Naik
