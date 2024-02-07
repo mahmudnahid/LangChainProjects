@@ -8,7 +8,7 @@ This is a collection of Generative AI projects using LangChain, OpenAI, Google G
 2. ChatBot with LangChain and various LLMs
 
 
-## Reference:
+### Reference:
 
 - [Hugging Face Hub](https://python.langchain.com/docs/integrations/llms/huggingface_hub)
 - [Hugging Face Chat Models](https://python.langchain.com/docs/integrations/chat/huggingface)
