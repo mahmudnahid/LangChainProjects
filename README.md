@@ -4,8 +4,8 @@
 
 This is a collection of Generative AI projects using LangChain, OpenAI, Google Gemini Pro, LLAMA2 etc.
 
-1. Blog Post Generator with LangChain CTransformers and LLAMA2
-2. ChatBot with LangChain and various LLMs
+1. [Blog Post Generator](https://github.com/mahmudnahid/LangChainProjects/tree/main/BlogGeneration) with LangChain CTransformers and LLAMA2
+2. [ChatBot](https://github.com/mahmudnahid/LangChainProjects/tree/main/ChatBot) with LangChain and various LLMs
 
 
 ### Reference:
