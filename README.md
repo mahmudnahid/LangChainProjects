@@ -7,6 +7,7 @@ This is a collection of Generative AI projects using LangChain, OpenAI, Google G
 1. [Blog Post Generator](https://github.com/mahmudnahid/LangChainProjects/tree/main/BlogGeneration) with LangChain CTransformers and LLAMA2
 2. [ChatBot](https://github.com/mahmudnahid/LangChainProjects/tree/main/ChatBot) with LangChain and various LLMs
 3. [Calory Count From Food Images](https://github.com/mahmudnahid/LangChainProjects/tree/main/CaloriesFoodImages) with Google Gemini
+4. [Q&A Bot with RAG](https://github.com/mahmudnahid/LangChainProjects/blob/main/DocumentRAG/llm_rag.ipynb)
 
 
 ### Reference:
