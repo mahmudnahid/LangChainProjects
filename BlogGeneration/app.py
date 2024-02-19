@@ -4,7 +4,7 @@ from langchain.llms import CTransformers
 
 ## Function To get response from LLAma 2 model
 def get_response(input_text,no_words,blog_style):
-    llm = CTransformers(model='models/llama-2-7b-chat.ggmlv3.q8_0.bin',
+    llm = CTransformers(model='../models/llama-2-7b-chat.ggmlv3.q8_0.bin',
                       model_type='llama',
                       config={'max_new_tokens':256,
                               'temperature':0.01})
